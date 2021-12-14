@@ -1,0 +1,13 @@
+name: rubble
+version: 0.1.0
+
+authors:
+  - sentenzo <your-email-here>
+
+targets:
+  rubble:
+    main: src/rubble.cr
+
+crystal: 1.2.2
+
+license: MIT
